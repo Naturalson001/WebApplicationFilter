@@ -24,7 +24,7 @@ This project provides:
 
 - **.NET 9 / ASP.NET Core**
 - **PostgreSQL** (with Docker support)
-- **Entity Framework Core / Dapper** (depending on repo design)
+- **Entity Framework Core / Dapper** 
 - **Swagger / OpenAPI** for API documentation
 
 ---
